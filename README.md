@@ -4,6 +4,7 @@
 
 ### 1. Created a Personal Web Page
 *   **Goal:** Build a simple, aesthetically pleasing personal landing page with dynamic content.
+    *   **Live Demo:** [https://otiyup.github.io/0225DRL/](https://otiyup.github.io/0225DRL/)
 *   **Implementation:** 
     *   Wrote an `index.html` file using HTML5 and CSS3.
     *   Implemented a modern, dark-mode aesthetic with a "glassmorphism" effect (semi-transparent blur).
