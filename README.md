@@ -8,9 +8,9 @@
     *   Wrote an `index.html` file using HTML5 and CSS3.
     *   Implemented a modern, dark-mode aesthetic with a "glassmorphism" effect (semi-transparent blur).
     *   Used CSS styling to feature a gradient text effect for your name (`otiyup`).
-    *   Hardcoded the current local time (`2026-02-25 10:53:26 UTC+8`) onto the page.
+    *   Implemented JavaScript to display the current local time dynamically, updating every second.
     *   **Visual Preview:**
-        ![Personal Page Screenshot](螢幕擷取畫面%202026-02-25%20112143.png)
+        ![Personal Page Screenshot](螢幕擷取畫面%202026-02-27%20165044.png)
 *   **Location:** Saved locally to `c:\Users\user\Desktop\L1PersonalPage\index.html`.
 
 ### 2. Environment Setup & Tooling
